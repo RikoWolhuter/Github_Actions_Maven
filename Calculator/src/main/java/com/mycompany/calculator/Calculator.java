@@ -7,6 +7,8 @@ public class Calculator {
 
     //methods for functionality
     
+    //Learning how to do Automated unit testing
+    
     public int add(int a, int b) {
         return a + b;
     }
