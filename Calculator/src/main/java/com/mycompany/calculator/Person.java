@@ -3,6 +3,8 @@ package com.mycompany.calculator;
 
 
 public class Person {
+    //This is a Person object class that has human characteristics
+    
     private String name;
     private int age;
 
